@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 - Employee Performance: Understandings their ability of sales in the different regions.
 - Regional Comparisons: An evaluation of sales and orders by region
 
-An interactive PowerBI dashboard can be downloaded *here*
+An interactive PowerBI dashboard can be downloaded [here](add link here)
 
 ## Executive Summery
 
