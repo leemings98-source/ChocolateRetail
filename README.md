@@ -10,8 +10,12 @@ Insights and recommendations are provided on the following key areas:
 - Regional Comparisons: An evaluation of sales and orders by region
 
 An interactive PowerBI dashboard can be downloaded [here](add link here)
+## Data Structure Overview
+<img width="235" height="249" alt="{CD8619BD-8033-4FE9-9FF7-69AF7365FE5C}" src="https://github.com/user-attachments/assets/94239c2e-7d16-476c-8806-44fef69a4dfb" />
 
 ## Executive Summery
+<img width="1320" height="738" alt="{4547DE46-4B0B-4C0A-A5AB-36C312733E7C}" src="https://github.com/user-attachments/assets/0b7fd5ac-0de0-4fe2-aa3f-455d33e259d7" />
+<img width="1312" height="742" alt="{9995709C-6A76-4AA0-BD79-909AFD0951CE}" src="https://github.com/user-attachments/assets/6086c53e-5079-4af1-9f86-8023ea7d6046" />
 
 ## Recommendations
 
