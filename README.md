@@ -10,7 +10,10 @@ Insights and recommendations are provided on the following key areas:
 - Regional Comparisons: An evaluation of sales and orders by region
 
 An interactive PowerBI dashboard can be downloaded [here](add link here)
+
 ## Data Structure Overview
+The dataset's base structure as can be seen below is made up of only one table, consisting of: 'Boxes shipped', 'Country', 'Date', 'Product', 'Sales' , and 'Sales Person'. The Dataset consists of a row count total of 1,094 in lieu of it being an entry(icebreaking) dataset. 
+
 <img width="235" height="249" alt="{CD8619BD-8033-4FE9-9FF7-69AF7365FE5C}" src="https://github.com/user-attachments/assets/94239c2e-7d16-476c-8806-44fef69a4dfb" />
 
 ## Executive Summery
@@ -18,4 +21,7 @@ An interactive PowerBI dashboard can be downloaded [here](add link here)
 <img width="1312" height="742" alt="{9995709C-6A76-4AA0-BD79-909AFD0951CE}" src="https://github.com/user-attachments/assets/6086c53e-5079-4af1-9f86-8023ea7d6046" />
 
 ## Recommendations
+
+
+
 
