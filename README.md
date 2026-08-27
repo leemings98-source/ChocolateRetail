@@ -17,9 +17,17 @@ The dataset's base structure as can be seen below is made up of only one table, 
 <img width="235" height="249" alt="{CD8619BD-8033-4FE9-9FF7-69AF7365FE5C}" src="https://github.com/user-attachments/assets/94239c2e-7d16-476c-8806-44fef69a4dfb" />
 
 ## Executive Summery
-<img width="1320" height="738" alt="{4547DE46-4B0B-4C0A-A5AB-36C312733E7C}" src="https://github.com/user-attachments/assets/0b7fd5ac-0de0-4fe2-aa3f-455d33e259d7" />
+<img width="1471" height="828" alt="{7DC7E6FD-3337-4128-A766-800632A18510}" src="https://github.com/user-attachments/assets/d685169e-9f09-4a9a-bb3f-139acc7eb045" />
+
 <img width="1312" height="742" alt="{9995709C-6A76-4AA0-BD79-909AFD0951CE}" src="https://github.com/user-attachments/assets/6086c53e-5079-4af1-9f86-8023ea7d6046" />
 
+- Sales peaked during January with a total sales of RM896,105, with UK(21% total sales), and Australia (20.9% total sales) being the top 2 regional buyers of the products.
+- Sales had a downwards trend after January before peaking back up at June. Total sales reached it's lowest during April with only RM674,051 total sales made, with Canada making up just 13% of sales.
+
+### Product Performance
+- Overviewing the product sales, all products have been averaging around the 3% ~ 5% of the total sales. The popularity of products being almost equal in sales amount. 
+- During January, sales of 85% Dark Bars reached an all time low of only RM273.
+- While during August, sales of Drinking Coco reached an all time low of only RM469.
 ## Recommendations
 
 
