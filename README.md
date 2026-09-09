@@ -17,7 +17,7 @@ The dataset's base structure as can be seen below is made up of only one table, 
 <img width="235" height="249" alt="{CD8619BD-8033-4FE9-9FF7-69AF7365FE5C}" src="https://github.com/user-attachments/assets/94239c2e-7d16-476c-8806-44fef69a4dfb" />
 
 ## Executive Summery
-Below is the overview page form the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [*here*](https://drive.google.com/file/d/1Ej5u4x5_nirEIAWzD7TiUGxDIWJfx_5w/view?usp=drive_link)
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [*here*](https://drive.google.com/file/d/1Ej5u4x5_nirEIAWzD7TiUGxDIWJfx_5w/view?usp=drive_link)
 <img width="1471" height="828" alt="{7DC7E6FD-3337-4128-A766-800632A18510}" src="https://github.com/user-attachments/assets/d685169e-9f09-4a9a-bb3f-139acc7eb045" />
 
 <img width="1312" height="742" alt="{9995709C-6A76-4AA0-BD79-909AFD0951CE}" src="https://github.com/user-attachments/assets/6086c53e-5079-4af1-9f86-8023ea7d6046" />
