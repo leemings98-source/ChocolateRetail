@@ -33,8 +33,26 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 - Drinking Coco recorded sales of *RM469* in *August*.
 
 ### Employee Performance
+- Ches Bonnel top sales person within this 8 months earning RM320,901
+- Wilone o'Kielt sales suffered, making RM139,523
 
 ### Regional Performance
+- Top 3 Countries that employess were able to make the most sales from India(6 employees), USA(5,employees), Uk(5 employees)
+- Bottom 3 Countries that employees found difficulty making sales from India(5 employees), New Zealand(5 employees) and USA (5employees)
+
+#### Australia
+
+#### Canada
+
+#### India
+
+#### New Zealand
+
+#### UK
+
+#### USA
+
+
 
 ## Recommendations
 - Investigate the large variation in 85% Dark Bars sales. Although the product recorded the lowest sales in January and March, it later reached RM97,209 in August. This suggests that factors such as seasonality, promotions, or regional demand may be influencing its performance.   
