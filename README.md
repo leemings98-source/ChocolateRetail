@@ -34,23 +34,34 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ### Employee Performance
 - Ches Bonnel top sales person within this 8 months earning RM320,901
-- Wilone o'Kielt sales suffered, making RM139,523
+- While Wilone o'Kielt's sales suffered, making RM139,523
+- Amongst the countries, the top 3 Countries that employees found to be able to make the most sales from were India(6 employees), USA(5 employees) and Uk(5 employees). Indicative from counts of the country generating the most sales for employees.
+- While the 3 Countries that employees found difficulty making sales from were India(5 employees), New Zealand(5 employees) and USA (5 employees). Indicative from counts of the country generating the least sales for employees.
+- Employees found that Australia was the region that had a lowest difficulty in making sales from, having the least amount of employees, 2 , finding difficulty in that region.
+
 
 ### Regional Performance
-- Top 3 Countries that employess were able to make the most sales from India(6 employees), USA(5,employees), Uk(5 employees)
-- Bottom 3 Countries that employees found difficulty making sales from India(5 employees), New Zealand(5 employees) and USA (5employees)
+Sales from each country is evenly distributed, the top country Australia made around RM1.14M in sales while the bottom last, New Zealand, made RM0.95M in sales. Both of which having a difference of around 26% between the two.
 
 #### Australia
+Sales from Australia has an oscillating pattern, having sales peaking during January before dropping in February and going back up in March and falling once again in April. Despite the oscillating pattern, the sales from Australia had a slow ebb to the sales made across the 8 month period.
+<img width="845" height="345" alt="{D7AF26F0-8AEC-4AB3-A3D8-D8C9FF4AF194}" src="https://github.com/user-attachments/assets/7a295cf2-f7ac-4be3-a6bc-7429e6ed0911" />
+
 
 #### Canada
+<img width="845" height="345" alt="{668AD60F-92D0-4371-A05E-9418C66B293C}" src="https://github.com/user-attachments/assets/3fa615bd-cd49-4b9c-94b7-53b5c3cab340" />
 
 #### India
+<img width="845" height="345" alt="{1EC4DEAE-19EB-4781-BE28-BB4F58FD9BFA}" src="https://github.com/user-attachments/assets/a3bea77b-01a0-4d32-9c5d-a9414814ff6c" />
 
 #### New Zealand
+<img width="845" height="345" alt="{10526E52-C1BF-478C-9A3D-CBF930BCBB5D}" src="https://github.com/user-attachments/assets/006678f1-59ca-42eb-89b0-74dfe1445fe2" />
 
 #### UK
+<img width="845" height="345" alt="{5DF3CD7E-6498-4F80-921D-5DFC3872AB9F}" src="https://github.com/user-attachments/assets/f5b9e16f-90a0-479a-84cf-0bae9e3883dc" />
 
 #### USA
+<img width="845" height="345" alt="{AA09D2D9-244D-4B1C-BCA0-9FE104B867CF}" src="https://github.com/user-attachments/assets/86f344f5-9090-4833-841c-0a88f8d98db6" />
 
 
 
