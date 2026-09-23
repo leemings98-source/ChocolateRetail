@@ -49,27 +49,33 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 #### Australia
 Sales from Australia has an oscillating pattern, having sales peaking during January(RM187K) before falling in February and raising back up in March and plunging once more in April. Despite the oscillating pattern, the sales from Australia had a slow ebb to the sales across the 8 month period not reaching back up to the previous peak's sales amount.
+
 <img width="845" height="345" alt="{D7AF26F0-8AEC-4AB3-A3D8-D8C9FF4AF194}" src="https://github.com/user-attachments/assets/7a295cf2-f7ac-4be3-a6bc-7429e6ed0911" />
 
 
 #### Canada
 Canada's sales is akin to the composition of the big dipper, their sales hovering at the RM100k mark during the first three months January at RM144K, February at RM134K and March at RM129K before dipping for the next 3 months at around RM85K and peaking back up during July at RM159K.
+
 <img width="845" height="345" alt="{668AD60F-92D0-4371-A05E-9418C66B293C}" src="https://github.com/user-attachments/assets/3fa615bd-cd49-4b9c-94b7-53b5c3cab340" />
 
 #### India
 India's sales fluctuation is quite tame compared to the rest of the regions. Starting off with January at RM143K before falling in February at RM84K, gradually increasing sales amount till reaching RM175K in July and settling back down during August. Having just 15.4% loss of sales amount the tamest compared to the rest of the region as of the dataset's current recorded sales. There is a high possibility that sales trend will continue to fall in the following months.
+
 <img width="845" height="345" alt="{1EC4DEAE-19EB-4781-BE28-BB4F58FD9BFA}" src="https://github.com/user-attachments/assets/a3bea77b-01a0-4d32-9c5d-a9414814ff6c" />
 
 #### New Zealand
 New Zealand's July sales was the lowest recorded sales during the 8 month period generating RM83K, this was after their June peak sales at RM167K. Perhaps the surplus during June lead to the low sales volume in July. 
+
 <img width="845" height="345" alt="{10526E52-C1BF-478C-9A3D-CBF930BCBB5D}" src="https://github.com/user-attachments/assets/006678f1-59ca-42eb-89b0-74dfe1445fe2" />
 
 #### UK
 UK's sales seems to peak during January at RM189K as well as June at RM209K, having a 6 month period between sale peaks. With the exception of May, the rest of the months tend to hover at around RM100K in sales.
+
 <img width="845" height="345" alt="{5DF3CD7E-6498-4F80-921D-5DFC3872AB9F}" src="https://github.com/user-attachments/assets/f5b9e16f-90a0-479a-84cf-0bae9e3883dc" />
 
 #### USA
 Similarly to Australia, USA's sales also had an oscillating pattern in the chart. However different from Australia, USA's sales starts from a low point(RM106K) before peaking during May(RM156K) and July(RM160K) then settling back down during August. Increasing from the initial January sales as the months progresses.  
+
 <img width="845" height="345" alt="{AA09D2D9-244D-4B1C-BCA0-9FE104B867CF}" src="https://github.com/user-attachments/assets/86f344f5-9090-4833-841c-0a88f8d98db6" />
 
 
